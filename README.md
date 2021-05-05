@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gerlevodka
+- 👋 Hi, I’m Gábor (but just call me michael)
 - 👀 I’m interested in linux + c++
 - 🌱 I’m currently learning linux + c++
 - 💞️ I’m looking to collaborate on 
